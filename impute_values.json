@@ -1,13 +1,8 @@
 {
+  "Income": 51342.0,
   "Kidhome": 0.0,
   "Teenhome": 0.0,
   "Recency": 49.0,
-  "MntWines": 173.5,
-  "MntFruits": 8.0,
-  "MntMeatProducts": 67.0,
-  "MntFishProducts": 12.0,
-  "MntSweetProducts": 8.0,
-  "MntGoldProds": 24.0,
   "NumDealsPurchases": 2.0,
   "NumWebPurchases": 4.0,
   "NumCatalogPurchases": 2.0,
@@ -31,6 +26,5 @@
   "Education_Basic": 0.0,
   "Education_Graduation": 1.0,
   "Education_Master": 0.0,
-  "Education_PhD": 0.0,
-  "Income_imputed": 51381.5
+  "Education_PhD": 0.0
 }
