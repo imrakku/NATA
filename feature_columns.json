@@ -1,14 +1,9 @@
 {
   "cluster_features": [
+    "Income",
     "Kidhome",
     "Teenhome",
     "Recency",
-    "MntWines",
-    "MntFruits",
-    "MntMeatProducts",
-    "MntFishProducts",
-    "MntSweetProducts",
-    "MntGoldProds",
     "NumDealsPurchases",
     "NumWebPurchases",
     "NumCatalogPurchases",
@@ -32,7 +27,6 @@
     "Education_Basic",
     "Education_Graduation",
     "Education_Master",
-    "Education_PhD",
-    "Income_imputed"
+    "Education_PhD"
   ]
 }
